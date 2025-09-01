@@ -1,0 +1,35 @@
+{
+  "catalog": [
+    {
+      "type": "group",
+      "name": "CFAVC Map",
+      "members": [
+        {
+          "name": "NDWI 2025",
+          "type": "geojson",
+          "url": "https://raw.githubusercontent.com/EcoBlder/CFAVC/main/NDWI_2025.geojson"
+        },
+        {
+          "name": "Farm 2025",
+          "type": "geojson",
+          "url": "https://raw.githubusercontent.com/EcoBlder/CFAVC/main/FARM_2025.geojson"
+        },
+        {
+          "name": "CO2e 2025 CSA",
+          "type": "geojson",
+          "url": "https://raw.githubusercontent.com/EcoBlder/CFAVC/main/CO2e2025.geojson"
+        },
+        {
+          "name": "Provinces 2025",
+          "type": "geojson",
+          "url": "https://raw.githubusercontent.com/EcoBlder/CFAVC/main/Provinces.geojson"
+        },
+        {
+          "name": "Communes (GeoJSON)",
+          "type": "geojson",
+          "url": "https://raw.githubusercontent.com/EcoBlder/CFAVC/main/Communes.geojson"
+        }
+      ]
+    }
+  ]
+}
